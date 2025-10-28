@@ -7,3 +7,4 @@ statsmodels
 scipy
 xlrd
 openpyxl
+seaborn
