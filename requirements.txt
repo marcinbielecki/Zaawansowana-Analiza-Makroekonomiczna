@@ -8,3 +8,4 @@ scipy
 xlrd
 openpyxl
 seaborn
+sklearn
